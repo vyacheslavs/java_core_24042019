@@ -1,4 +1,4 @@
-package Marathon;
+package Marathon.Team;
 
 public class Dog extends Animal {
     public Dog(String name) {

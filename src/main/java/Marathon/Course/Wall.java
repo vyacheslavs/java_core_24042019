@@ -1,4 +1,6 @@
-package Marathon;
+package Marathon.Course;
+
+import Marathon.Team.Competitor;
 
 public class Wall extends Obstacle {
     int height;
