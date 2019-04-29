@@ -1,4 +1,6 @@
-package Marathon;
+package Marathon.Course;
+
+import Marathon.Team.Competitor;
 
 public class Cross extends Obstacle {
     int length;
