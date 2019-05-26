@@ -16,7 +16,6 @@ public class Controller {
 
     public void sendMsg() {
 
-
         Label chatMessage = new Label(textField.getText());
         chatMessage.getStyleClass().add("chat-bubble");
         chatMessage.setWrapText(true);
