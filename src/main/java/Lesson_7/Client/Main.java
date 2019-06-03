@@ -12,7 +12,7 @@ import java.io.IOException;
 
 public class Main extends Application {
 
-    private int chatWidth = 400;
+    private int chatWidth = 360;
     private int chatHeight = 600;
 
     @Override
